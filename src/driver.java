@@ -1,3 +1,8 @@
+// Callaghan Donnelly
+// 10/6/2021
+// Assignment 1
+
+
 import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Arrays;
